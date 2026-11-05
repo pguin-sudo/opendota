@@ -7,3 +7,6 @@ venv/
 .ruff_cache/
 .pytest_cache/
 matches.csv
+data/
+README.md
+docs/
